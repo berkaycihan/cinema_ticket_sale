@@ -1,0 +1,10 @@
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\bin\Debug\Sinema_bufe_satis.exe.config
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\bin\Debug\Sinema_bufe_satis.exe
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\bin\Debug\Sinema_bufe_satis.pdb
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.csprojAssemblyReference.cache
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.Form1.resources
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.Properties.Resources.resources
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.csproj.GenerateResource.cache
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.csproj.CoreCompileInputs.cache
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.exe
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Degiskenler\Degiskenler_int\Sinema_Bufe_Satis\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.pdb
